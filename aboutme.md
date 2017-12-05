@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Introduce myself
 ---
 
 My name is Hung Nguyen. I am studying Computer Science at Hanoi University of Science and Technology in Ha Noi city, Vietnam. Because of my deep passion in technology, I always learning materials relative to technologies on the Internet and study from them in my free time. Although I am a computer science student, I am also interested in other fields related to computer, especially state-of-the-art fields including artificial intelligence, machine learning, the Internet of Things,...
