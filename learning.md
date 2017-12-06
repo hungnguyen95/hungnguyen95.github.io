@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning
-subtitle: Recommending Content
+subtitle: Recommend Contents
 ---
 
 I recommend you guys some courses and books which you can learn more about machine learning, deep learning.
