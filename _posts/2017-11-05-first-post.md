@@ -1,8 +1,0 @@
----
-layout: post
-title: First post!
-image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
----
-
-Hello World! My first post in blog!
