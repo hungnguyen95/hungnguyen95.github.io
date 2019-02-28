@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一章：人工知能の紹介
+title: 人工知能の紹介
 image: /img/2017-11-06/machine_learning.jpg
 tags: [machine learning, 人工知能]
 ---
@@ -12,7 +12,6 @@ tags: [machine learning, 人工知能]
 近年では、人工知能は大きな一歩とフィールドをと言っているディープラーニングと呼ばれる新しいものが生まれました
 
 ![aimdl](/img/2017-11-06/aimldl.png)
-*AI、Machine LearningとDeep Learningの関係*
 
 ### 参考
 - コースと本：[Learning](https://hungnguyen95.github.io/learning/)
