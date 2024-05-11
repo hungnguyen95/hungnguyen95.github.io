@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "timeoutStep": 5000,
+        "timeoutTasks" : 50,
+        "createLog" : true,
+        "TweetID": "1667861153790263297",
+        "UserID": [
+            "1518898059513835521",
+            "1586764249765974020"
+        ]
+    },
+    "queriID": {
+        "UserTweets": "NPgNFbBEhFTul68weP-tYg",
+        "UserByScreenName" : "7mjxD3-C6BxitPMVQ6w0-Q",
+        "TweetDetail" : "Pn68XRZwyV9ClrAEmK8rrQ",
+        "CreateRetweet": "ojPdsZsimiJrUGLR1sjUtA",
+        "CreateTweet": "9CuErN_V-9EfTNJVMF5ZHA",
+        "FavoriteTweet": "lI07N6Otwv1PhnEgXILM7A",
+        "authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA"
+    }
+}
